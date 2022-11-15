@@ -1,1 +1,1 @@
-This testimonials section was creating using all of the concepts from CSS Grid Layout.
+This testimonials section was creating using many concepts from CSS Grid Layout.
